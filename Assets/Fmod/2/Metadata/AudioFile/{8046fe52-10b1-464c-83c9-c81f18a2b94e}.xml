@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8046fe52-10b1-464c-83c9-c81f18a2b94e}">
+		<property name="assetPath">
+			<value>Glass_Handling_3_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5600000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{52eebc7f-28aa-47b4-af30-17d2480f6658}</destination>
+		</relationship>
+	</object>
+</objects>

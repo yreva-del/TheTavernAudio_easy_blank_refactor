@@ -1,0 +1,10 @@
+{ddd4aeb2-6eca-44fb-8333-6e057a478ca0} bank:/Master
+{45c98e66-1fb1-08b9-057a-e4fb8bb48a38} bank:/Master.strings
+{d9806e24-6a42-4bdb-99a7-956092752dd5} bus:/
+{b0bcc066-8191-477e-81c4-c1e7510c3db5} bus:/Ambiant
+{17106ddf-983d-444f-9490-ec80c3ef7e23} bus:/Ambiant/Music
+{54ab30b4-a49b-4a0d-869c-a3aa2a83e59f} bus:/Ambiant/Player
+{9220907e-642f-47d4-bc85-6a040de9f74a} bus:/Ambiant/Tavern
+{e6fbce81-e270-49bd-8500-587d9644ef46} bus:/Ambiant/outside
+{db974704-a171-48e5-9519-cee55c5ce186} bus:/Reverb
+{81d03b4d-a329-4fa0-bc80-7167b336322b} parameter:/Parameter 1
